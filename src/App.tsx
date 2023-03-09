@@ -13,7 +13,7 @@ const App: React.FC = () => {
 
   return( <div className="App">
     <span className='heading'>Notify</span>
-
+    <p>This is for testing purposes</p>
     <InputField todo={todo} setTodo={setTodo} />
   </div>
   );
